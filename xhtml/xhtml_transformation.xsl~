@@ -20,7 +20,7 @@
          </div>
            
 	<xsl:for-each select="breakfast_menu/food">
-		<a href="{position()}.html">Recept</a>
+		<a href="{position()}.html">@run.html</a>
 
 		<xsl:result-document href="{position()}.html">
 <html>

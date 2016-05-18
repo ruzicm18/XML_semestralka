@@ -1,7 +1,7 @@
 
 <breakfast_menu>
 
-	<food run="1">
+	<food>
 		<name>Avocado Chocolate Cake</name>
 		<ingredients>
 			<good>
@@ -55,7 +55,7 @@
 		<imageID>1</imageID>
 	</food>
 
-	<food run="2">
+	<food>
 		<name>Currant and Tea Scones</name>
 		<ingredients>
 			<good>
@@ -102,7 +102,7 @@
 		<imageID>2</imageID>
 	</food>
 
-	<food run="3">
+	<food>
 		<name>Creamy Chicken, Tomato, Mozzerella and Spinach Pasta Bake</name>
 		<ingredients>
 			<good>
@@ -151,7 +151,7 @@
 		<imageID>3</imageID>
 	</food>
 
-	<food run="4">
+	<food>
 		<name>Bangers and Mash </name>
 		<ingredients>
 			<good>
@@ -203,7 +203,7 @@
 		<imageID>4</imageID>
 	</food>
 
-	<food run="5">
+	<food>
 		<name>Rhubarb Tart With Yoghurt</name>
 		<ingredients>
 			<good>
