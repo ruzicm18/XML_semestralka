@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+
+<xsl:output method="xml" doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN" doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+            encoding="utf-8" indent="yes" />
+
+<xsl:template match="/">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+    <head>
+       <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+       <meta http-equiv="content-language" content="cs" />
+       <meta name="author" content="Petr Kopčák" />
+       <title>Doprovodný materiál (xHTML)</title>
+       <link rel="stylesheet" type="text/css" href="./css/xhtml-output.css" />
+    </head>
+    <body>
+       <div id="bg-stripes"></div>
+       <div id="bg-top-line"></div>
+       <div id="main-wrapper" class="centered"> 
+         <div id="header">
+            <div id="main-title" class="l-float c-white">Doprovodný materiál k prezentaci notebooků <span class="c-red">(xHTML)</span></div>
+            <div id="log-info" class="r-float c-white">kopcapet (BI-XML)</div>
+         </div>
+         
+         <!-- ====== content ====== --> 
+         <div id="content" class="b-yellow t-margin-15">
+            <div class="inner-pad-15">
+              <div id="inner-wrapper">
+        
+                   <xsl:for-each select="breakfast_menu/food">
+                     <div class="box">
+                         <h2><xsl:value-of select="name" />&#160;<xsl:value-of select="name" /></h2>
+                         
+                         
+                         <h3>popis</h3>
+                         <ul>
+                            <li>Typ: <xsl:value-of select="description" /></li>
+                         </ul>
+
+                   </xsl:for-each>
+                   
+              </div>
+           </div>
+         </div>
+         <!-- ====== content end ====== -->
+          
+       </div>
+    </body>
+  </html>  
+</xsl:template>
+
+</xsl:stylesheet> 

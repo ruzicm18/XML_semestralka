@@ -1,0 +1,249 @@
+
+<breakfast_menu>
+
+	<food>
+		<name>Avocado Chocolate Cake</name>
+		<ingredients>
+			<good>
+				<name>olive oil</name>
+				<amount>100ml</amount>
+			</good>
+			<good>
+				<name>spelt flour</name>
+				<amount>1½ cups</amount>
+			</good>
+			<good>
+				<name>cacao powder</name>
+				<amount>½ cup</amount>
+			</good>
+			<good>
+				<name>bicarbonate of soda</name>
+				<amount>1½ tsp</amount>
+			</good>
+			<good>
+				<name>almond meal</name>
+				<amount>100g</amount>
+			</good>
+			<good>
+				<name>avocado</name>
+				<amount>1</amount>
+			</good>
+			<good>
+				<name>unsweetened Greek yoghurt</name>
+				<amount>1 cup</amount>
+			</good>
+			<good>
+				<name>vanilla extract and 1 tsp vanilla extract for frosting</name>
+				<amount>2 tsp</amount>
+			</good>
+		</ingredients>
+		<instructions>
+			<step>
+				<value>Preheat the oven to 180°c. grease a 20cm springform cake pan and lineBase with baking paper.</value>
+			</step>
+			<step>
+				<value>Sift the spelt flour, cacao powder and bicarbonate of soda together into a bowl. Stir in the almond meal and 1 cup coconut sugar. Scoop the avocado flesh into a food processor with the yoghurt, macadamia oil and vanilla and process until smooth. Add avocado mixture to the dry ingredients and stir until well combined.</value>
+			</step>
+			<step>
+				<value>Transfer the mixture to the prepared pan and bake for 40 minutes or until cooked when tested with a skewer. Remove from oven and cool in pan for 10 minutes. Remove from pan, transfer to a wire rack and cool completely.</value>
+			</step>
+			<step>
+				<value>For the frosting, scoop the avocado flesh into a food processor. Add the icing sugar, cacao powder and vanilla extract, then process until smooth and creamy. Spread frosting over the cooled cake to serve.</value>
+			</step>		
+		</instructions>
+		<calories>650</calories>
+		<imageID>1</imageID>
+	</food>
+
+	<food>
+		<name>Currant and Tea Scones</name>
+		<ingredients>
+			<good>
+				<name>chai tea</name>
+				<amount>2 tea bags</amount>
+			</good>
+			<good>
+				<name>currants</name>
+				<amount>1/4 cup</amount>
+			</good>
+			<good>
+				<name>self-raising flour</name>
+				<amount>3 cups</amount>
+			</good>
+			<good>
+				<name>caster sugar</name>
+				<amount>2 tbs</amount>
+			</good>
+			<good>
+				<name>butter</name>
+				<amount>80g</amount>
+			</good>
+			<good>
+				<name>milk</name>
+				<amount>1 cup</amount>
+			</good>
+			<good>
+				<name>strawberries</name>
+				<amount>100g</amount>
+			</good>
+		</ingredients>
+		<instructions>
+			<step>
+				<value> Preheat oven to 220°C. Place tea bags into a jug and pour over 1/2 cup boiling water. Set aside for 3 minutes. Remove bags, squeezing out liquid. Discard bags. Add currants to tea and soak for 5 minutes. </value>
+			</step>
+			<step>
+				<value>Meanwhile, put flour and sugar into a bowl. Add butter and rub into flour.</value>
+			</step>
+			<step>
+				<value>Drain currants, measuring the liquid in a jug and add enough milk to make up to 11/2 cups. Stir currants and tea mixture into flour mixture. Stir quickly and lightly together using a dinner knife until combined. Turn out onto a lightly floured surface, knead lightly until smooth and pat out until 2cm thick. Cut out 5cm rounds and transfer scones to a baking tray. Bake for 12-15 minutes or until well risen and golden. Serve with whipped cream and strawberries.</value>
+			</step>
+		</instructions>
+		<calories>835</calories>
+		<imageID>2</imageID>
+	</food>
+
+	<food>
+		<name>Creamy Chicken, Tomato, Mozzerella and Spinach Pasta Bake</name>
+		<ingredients>
+			<good>
+				<name>Pasta shells large</name>
+				<amount>200g</amount>
+			</good>
+			<good>
+				<name>chicken breast or thigh</name>
+				<amount>500g</amount>
+			</good>
+			<good>
+				<name>Pasta Bake Creamy Tomato and Mozzerella </name>
+				<amount>1 jar</amount>
+			</good>
+			<good>
+				<name>grated cheddar cheese</name>
+				<amount>1 cup</amount>
+			</good>
+			<good>
+				<name>English Spinach</name>
+				<amount>200g</amount>
+			</good>
+			<good>
+				<name>fresh basil leaves </name>
+				<amount>100g</amount>
+			</good>
+		</ingredients>
+		<instructions>
+			<step>
+				<value>Preheat oven to 180°C. </value>
+			</step>
+			<step>
+				<value>Cook 200g of dry pasta following packet instructions. </value>
+			</step>
+			<step>
+				<value>Fry 500g of diced chicken breast in a pan until brown.</value>
+			</step>
+			<step>
+				<value>Combine cooked pasta, chicken and Creamy Tomato and Mozzarella Sauce into a baking dish. Cover with 1 cup of grated cheese and spinach.</value>
+			</step>
+			<step>
+				<value>Bake for 20 minutes or until golden brown and garnish with fresh basil.</value>
+			</step>
+		</instructions>
+		<calories>890</calories>
+		<imageID>3</imageID>
+	</food>
+
+	<food>
+		<name>Bangers and Mash </name>
+		<ingredients>
+			<good>
+				<name>Potatoes</name>
+				<amount>1kg</amount>
+			</good>
+			<good>
+				<name>Thick Australian Beef Sausages</name>
+				<amount>1 pack</amount>
+			</good>
+			<good>
+				<name>milk</name>
+				<amount>1l</amount>
+			</good>
+			<good>
+				<name>butter</name>
+				<amount>50g</amount>
+			</good>
+			<good>
+				<name>Traditional Gravy pouch</name>
+				<amount>50g</amount>
+			</good>
+			<good>
+				<name>Salt</name>
+				<amount>1 tsp</amount>
+			</good>
+		</ingredients>
+		<instructions>
+			<step>
+				<value>Peel and cut potatoes in uniform shape, place in a saucepan and cover with salted cold water. Bring to the boil.</value>
+			</step>
+			<step>
+				<value>Separate and prick sausages. BBQ or grill, turning regularly until thoroughly cooked.</value>
+			</step>
+			<step>
+				<value>Check potatoes with a skewer. When easily inserted, drain water and mash cooked potatoes.</value>
+			</step>
+			<step>
+				<value>Mix butter and milk at moderate temperature in a heat-proof dish. Slowly add to mash until desired texture achieved and season lightly.</value>
+			</step>
+			<step>
+				<value>Cut the corner from traditional gravy and microwave pouch for 40 seconds.</value>
+			</step>
+			<step>
+				<value>Pile the mashed potatoes on the plate with sausages and pour over the gravy.</value>
+			</step>
+		</instructions>
+		<calories>730</calories>
+		<imageID>4</imageID>
+	</food>
+
+	<food>
+		<name>Rhubarb Tart With Yoghurt</name>
+		<ingredients>
+			<good>
+				<name>Puff pastry, slightly thawed</name>
+				<amount>1 sheet</amount>
+			</good>
+			<good>
+				<name>Eggs</name>
+				<amount>2</amount>
+			</good>
+			<good>
+				<name>Rhubarb, stems cut into 6cm lengths</name>
+				<amount>1 bunch</amount>
+			</good>
+			<good>
+				<name>Raw sugar</name>
+				<amount>4 tbs</amount>
+			</good>
+			<good>
+				<name>oranges, zest and juice</name>
+				<amount>2</amount>
+			</good>
+			<good>
+				<name>Greek Yoghurt</name>
+				<amount>1 cup</amount>
+			</good>
+		</ingredients>
+		<instructions>
+			<step>
+				<value>Preheat oven to 180°C. </value>
+			</step>
+			<step>
+				<value>Grease a baking sheet. Top with pastry. Lightly push down on each corner with your thumb (to stop them rising too much) and score lightly with a knife around the edges to create a 1cm border. Lightly run the knife over the rest of the pastry in a cross hatch pattern to score it. Lightly brush the egg over pastry. Bake in oven for about 15 minutes or until golden.</value>
+			</step>
+			<step>
+				<value>Using a palette knife transfer pastry to serving plate. Spoon over some yoghurt, rhubarb and top with a few spoonfuls of remaining yoghurt.</value>
+			</step>
+		</instructions>
+		<calories>680</calories>
+		<imageID>5</imageID>
+	</food>
+
+</breakfast_menu>
